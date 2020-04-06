@@ -1,2 +1,3 @@
 # NLP-with-SpaCy
-Understanding short sentences using SpaCy for NLP example
+
+spaCy is a free, open-source library for advanced Natural Language Processing (NLP) in Python. It is is designed specifically for production use and helps to build applications that process and “understand” large volumes of text. It can be used to build information extraction or natural language understanding systems, or to pre-process text for deep learning
